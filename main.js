@@ -80,7 +80,7 @@ testMap();
 
 
 // object_literal
-let brand = 'Merk A'
+let brand = 'Merk B'
 let year = 2023
 
 let product = {
